@@ -6,9 +6,9 @@
 ---
 
 ### 💼 About Me
-- 🌱 Currently learning **C#**, **PHP**, and **MySQL**
+- 🌱 Currently learning **Java**, **Cisco packet tracer**, and **Networking**
 - 🔒 Interested in **Networking** and **network security**
-- 🧠 I enjoy solving coding challenges and building secure web apps
+- 🧠 I enjoy solving coding challenges and building secure websites
 - 🧍‍♂️ I'm in my **3rd year** at college
 
 ---
@@ -28,7 +28,8 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://linkedin.com/in/ebunoluwa-dahunsi-63b119201 ) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ebunoluwa-dahunsi-63b119201 )  
+ 
 
 ---
 
