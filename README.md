@@ -24,12 +24,17 @@
 
 ---
 
+### 📊 GitHub Stats
+![Ebunoluwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ---
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ebunoluwa-dahunsi-63b119201 )  
- 
+[![Portfolio](https://img.shields.io/badge/Website-Visit%20Now-green?logo=google-chrome&logoColor=white)](https://autismjourney.com)
+
 
 ---
 
