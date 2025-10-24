@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Ebunoluwa Dahunsi
 
-<!--
-**Ebunoluwa-D/Ebunoluwa-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Computer Science Undergraduate  
+💻 Passionate about **Cybersecurity**, **Web Development**, **Networking** and **Programming**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 About Me
+- 🌱 Currently learning **C#**, **PHP**, and **MySQL**
+- 🔒 Interested in **Networking** and **network security**
+- 🧠 I enjoy solving coding challenges and building secure web apps
+- 🧍‍♂️ I'm in my **3rd year** at college
+
+---
+
+### ⚙️ Tech Stack
+| Area | Tools / Languages |
+|------|-------------------|
+| 💻 Programming | C++, C#, Java, Python |
+| 🌐 Web | HTML, CSS, JavaScript, |
+| 🛢️ Database | MySQL |
+| 🔐 Cybersecurity | Kali Linux, Wireshark, Nmap ,Cisco packet tracer |
+| 🧰 Tools | Git, XAMPP, VS Code, cPanel |
+
+---
+
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://linkedin.com/in/ebunoluwa-dahunsi-63b119201 ) 
+
+---
+
+### 💬 Fun Fact
+I love listening to  music while coding 🎧
