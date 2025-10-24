@@ -32,8 +32,8 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ebunoluwa-dahunsi-63b119201 )  
-[![Portfolio](https://img.shields.io/badge/Website-Visit%20Now-green?logo=google-chrome&logoColor=white)](https://autismjourney.com)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ebunoluwa-dahunsi-63b119201)  
+![Portfolio](https://img.shields.io/badge/Website-Visit%20Now-green?logo=google-chrome&logoColor=white)](https://autismjourney.com)
 
 
 ---
