@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ebunoluwa Dahunsi
 
-🎓 I'm a **Computer Science Undergraduate  
+🎓 I'm a **Computer Science Undergraduate** 
 💻 Passionate about **Cybersecurity**, **Web Development**, **Networking** and **Programming**  
 
 ---
