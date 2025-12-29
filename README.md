@@ -6,9 +6,9 @@
 ---
 
 ### 💼 About Me
-- 🌱 Currently learning **Java**, **Cisco packet tracer**, and **Networking**
-- 🔒 Interested in **Networking** and **network security**
-- 🧠 I enjoy solving coding challenges and building secure websites
+- 🌱 Currently learning **Java**, **Cisco packet tracer**, and ***Networking**
+- 🔒 Interested in **Networking**,**network security** and *Cybersecurity
+- 🧠 I enjoy doing network labs and using cybersecurity tools
 - 🧍‍♂️ I'm in my **3rd year** at college
 
 ---
@@ -16,11 +16,10 @@
 ### ⚙️ Tech Stack
 | Area | Tools / Languages |
 |------|-------------------|
-| 💻 Programming | C++, C#, Java, Python |
+| 💻 Programming | C++, Java, Python |
 | 🌐 Web | HTML, CSS, JavaScript, |
-| 🛢️ Database | MySQL |
-| 🔐 Cybersecurity | Kali Linux, Wireshark, Nmap ,Cisco packet tracer |
-| 🧰 Tools | Git, XAMPP, VS Code, cPanel |
+| 🔐 Cybersecurity |  Wireshark, Nmap ,Cisco packet tracer |
+| 🧰 Tools |  XAMPP, VS Code, cPanel |
 
 ---
 
@@ -29,14 +28,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
----
-
-### 🌐 Connect with Me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ebunoluwa-dahunsi-63b119201)  
-![Portfolio](https://img.shields.io/badge/Website-Visit%20Now-green?logo=google-chrome&logoColor=white)](https://autismjourney.com)
 
 
 ---
 
 ### 💬 Fun Fact
-I love listening to  music while coding 🎧
+I love music🎧
